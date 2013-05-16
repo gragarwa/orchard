@@ -1,0 +1,6 @@
+D:\Personal\Orchard.Source\src\Orchard.Azure\Orchard.Azure.Web\obj\Release\Tests\Orchard.Azure.Tests.dll.config
+D:\Personal\Orchard.Source\src\Orchard.Azure\Orchard.Azure.Web\obj\Release\Tests\Orchard.Azure.Tests.dll
+D:\Personal\Orchard.Source\src\Orchard.Azure\Orchard.Azure.Web\obj\Release\Tests\Orchard.Azure.Tests.pdb
+D:\Personal\Orchard.Source\src\Orchard.Azure.Tests\obj\Release\Orchard.Azure.Tests.csprojResolveAssemblyReference.cache
+D:\Personal\Orchard.Source\src\Orchard.Azure.Tests\obj\Release\Orchard.Azure.Tests.dll
+D:\Personal\Orchard.Source\src\Orchard.Azure.Tests\obj\Release\Orchard.Azure.Tests.pdb
